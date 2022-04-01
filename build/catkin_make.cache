@@ -1,0 +1,2 @@
+autolabor_keyboard_control:autolabor_pro1_driver
+-DCATKIN_DEVEL_PREFIX=/home/tymiao2/catkin_autolabborPro1/devel -DCMAKE_INSTALL_PREFIX=/home/tymiao2/catkin_autolabborPro1/install -G Unix Makefiles
